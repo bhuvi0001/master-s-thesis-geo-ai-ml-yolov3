@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+env/
+venv/
+.ipynb_checkpoints/
+*.ipynb
+
+# YOLO/ML
+models/
+weights/
+*.h5
+*.ckpt
+*.pt
+*.onnx
+*.pb
+
+# Data
+data/
+*.csv
+*.json
+*.tfrecord
+*.zip
+
+# Results
+results/
+*.png
+*.jpg
+*.jpeg
+*.bmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
