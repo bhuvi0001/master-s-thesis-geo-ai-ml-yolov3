@@ -1,0 +1,27 @@
+# Results and Visualizations
+
+This folder contains the output, visualizations, and evaluation metrics from the analysis performed in the project.
+
+## Suggested Structure
+
+- `detections/` — Images with YOLOv3 detections (parking, housing, etc.)
+- `metrics/` — Evaluation metrics (accuracy, precision, recall, F1-score, etc.)
+- `plots/` — Charts and visualizations (distribution graphs, confusion matrices, etc.)
+- `reports/` — Summary reports and findings
+
+## How to Add Results
+
+1. Save any images or plots from your analysis in the appropriate subfolder.
+2. Document key findings in Markdown or PDF format within the `reports/` folder.
+3. Update this README with links to important results as your analysis progresses.
+
+## Example
+
+- [detections/sample_detection.png](detections/sample_detection.png)
+- [metrics/evaluation_metrics.csv](metrics/evaluation_metrics.csv)
+- [plots/area_distribution.png](plots/area_distribution.png)
+- [reports/summary.md](reports/summary.md)
+
+---
+
+If you have any questions about organizing results, please ask in the project’s GitHub Issues.
