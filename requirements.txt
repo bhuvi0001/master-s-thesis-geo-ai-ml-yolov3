@@ -1,0 +1,22 @@
+# Core Dependencies for YOLOv3 and ML
+numpy
+pandas
+matplotlib
+opencv-python
+torch
+torchvision
+scikit-learn
+notebook
+tqdm
+Pillow
+
+# YOLOv3 implementations (choose one based on your code)
+# Example: ultralytics/yolov3 (PyTorch)
+ultralytics
+
+# (Optional) GIS & Geo packages
+geopandas
+shapely
+rasterio
+
+# Add/remove packages as needed for your implementation
