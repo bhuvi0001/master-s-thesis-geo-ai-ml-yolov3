@@ -1,0 +1,6 @@
+# YOLOv3 data configuration file
+train: data/train/images
+val: data/test/images
+
+nc: 3  # number of classes (e.g., parking, housing, other)
+names: ['parking', 'housing', 'other']  
